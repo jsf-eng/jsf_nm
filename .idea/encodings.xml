@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nm-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-framework-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-framework-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-govern-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-govern-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-base-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-learning" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-manage-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-manage-cms-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-manage-course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-manage-media" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-manage-media-processor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nm-service-ucenter-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-producer" charset="UTF-8" />
+  </component>
+</project>
